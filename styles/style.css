@@ -30,9 +30,21 @@ header{
 
 .formulaire{
     margin: auto;
+    background-color: whitesmoke;
+    width: 250px;
 }
 img{
     width: 20vw;
 }
 
+.titre{
+    display: flex;
+    gap: 40px;
+    margin-bottom: 30px;
+}
+
+.prix{
+    color:red;
+    font-size: xx-large;
+}
 
