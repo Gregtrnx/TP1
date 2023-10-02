@@ -32,6 +32,8 @@ header{
     margin: auto;
     background-color: whitesmoke;
     width: 250px;
+    padding: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,100);
 }
 img{
     width: 20vw;
@@ -48,3 +50,18 @@ img{
     font-size: xx-large;
 }
 
+.choix{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: xx-large;*
+}
+
+.bouton{
+    background-color: #3A57FC;
+    color: white;
+    padding: 15px;
+}
+
+.bouton>*{
+    margin-left: 50px;
+}
