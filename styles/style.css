@@ -18,12 +18,19 @@ header{
     gap: 24px;
 }
 
-.prod{
+.tout{
     display: flex;
-    align-items: flex-start;
-    justify-content: center;
+    align-items: center;
+    margin-top: 10vw;
 }
 
+.prod{
+    margin: auto;
+}
+
+.formulaire{
+    margin: auto;
+}
 img{
     width: 20vw;
 }
